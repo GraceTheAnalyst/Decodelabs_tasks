@@ -15,7 +15,7 @@
 This data explores 1,200 online orders (January 2023 to June 2025) to find patterns, trends and unusual orders. The work covers basic statistics, how orders are spread across categories, outliers, and how sales change over time.
 
 ## Data Sources
-The dataset [DatasetforDataAnalyticsDL.xlsx](DatasetforDataAnalyticsDL.xlsx) was provided by DecodeLab Internship program
+The dataset was provided by DecodeLab Internship program
 
 ## Tools
  Microsoft Excel
